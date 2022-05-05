@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript and my projects on [834772509@qq.com](mailto:834772509@qq.com)
 
 
+<!-- 
 [![github stats](https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true)](https://github.com/834772509)
-
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact)](https://github.com/834772509)
+ -->
+
+<a href="https://github.com/834772509">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact" />
+</a>
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=834772509&layout=compact)](https://github.com/834772509)
 
