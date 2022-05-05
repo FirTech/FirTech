@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <div style="display:flex;justify-content: space-around;align-content: space-between;flex-wrap:wrap;">
   <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true" />
-  <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact" />
   <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=834772509&layout=compact" />
+  <img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact" />
 </div>
 
 ### Tech Stack
