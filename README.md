@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true">](https://github.com/834772509)
+<!-- [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true">](https://github.com/834772509) -->
 
 - A Software Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in JiangXi, China.
@@ -23,16 +23,9 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=834772509&show_icons=true)](https://github.com/834772509)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact)](https://github.com/834772509)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=834772509&layout=compact)](https://github.com/834772509)
- -->
- 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=834772509&layout=compact)](https://github.com/834772509)
 
 ---
 
