@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ---
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=FirTech&show_icons=true)](https://github.com/FirTech)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirTech&layout=compact)](https://github.com/FirTech)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirTech&layout=compact)](https://github.com/FirTech)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ### Tech Stack
